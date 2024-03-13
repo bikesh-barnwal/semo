@@ -1,2 +1,2 @@
-# semo
+# demo
 this is my first repository
